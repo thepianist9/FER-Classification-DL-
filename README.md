@@ -1,3 +1,4 @@
-# Face-Entity-Recognition Classification 
+# Facial Expression Recognition Challenge
 
-A CNN based approach on the classical FER2013 dataset
+Learn facial expressions from an image using Deep learning
+
